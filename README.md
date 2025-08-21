@@ -6,3 +6,7 @@ Hello! My name is Mason Darghali and I am currently a sophomore at Chatsworth Ch
 My favorite food is sushi. I hope I can learn how to code and make websites. My most memorable expierence over summer was Oregon with my family and my friends birthday parties. My favorite movie is Avengers Endgame because I had so much fun watching it. I didnt make anything technology like over summer but I hope to be able to by the end of this class.
 
 Over summer I visited my cousins alot and spent a lot of time with my family and friends. It was my brothers last summer at home so I tried to spend as much time with him as possible. I like music and my favorite artists are The Weeknd and Drake. When I graduate I want to go to a good school and get a good job and make alot of money. Last year I learned coding so I am exited to learn more and be more expierenced.
+
+[My Spotify Playlist!](https://open.spotify.com/playlist/2Ur7XBtJHiUVNIdeO7yoEl?si=caf3bb5a49a846a7&pt=7519f7d807548a158789e50902f9ff2f)
+
+![My Collage!](Computer%20Science.png)
